@@ -1,6 +1,6 @@
 A [Giter8][g8] template for sample application of throttling mechanism using Akka FSM.
 
-**akka-fsm-throttler**
+# akka-fsm-throttler
 
 A basic application to implement throttling mechanism using Akka FSM. 
 
