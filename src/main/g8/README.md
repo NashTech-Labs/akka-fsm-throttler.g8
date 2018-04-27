@@ -5,7 +5,7 @@ To configure the parallelism on the basis of number of request we need throttler
 
 # Clone the repo
 ```
-sbt new mahesh2492/akka-fsm-throttler.git
+sbt new knoldus/akka-fsm-throttler.git
 ```
 # Build the code
 If this is your first time running SBT, you have to download the used dependencies.
