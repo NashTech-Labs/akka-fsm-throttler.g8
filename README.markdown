@@ -13,6 +13,7 @@ A basic application to implement throttling mechanism using Akka FSM. For more i
 **2 Compile the application**
 
 `cd akka-fsm-throttler`
+
 `sbt clean compile`
 
 **3 Run the application**
