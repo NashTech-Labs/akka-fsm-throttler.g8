@@ -8,7 +8,7 @@ A basic application to implement throttling mechanism using Akka FSM. For more i
 
 **1 Clone the application**
 
-`sbt new mahesh2492/akka-fsm-throttler.g8`
+`sbt new knoldus/akka-fsm-throttler.g8`
 
 **2 Compile the application**
 
