@@ -2,7 +2,7 @@ A [Giter8][g8] template for sample application of throttling mechanism using Akk
 
 # akka-fsm-throttler
 
-A basic application to implement throttling mechanism using Akka FSM. 
+A basic application to implement throttling mechanism using Akka FSM. For more info [refer](https://blog.knoldus.com/2018/01/22/how-to-throttle-messages-using-akka-fsm/)
 
 **How to Set up ?**
 
@@ -25,7 +25,7 @@ A basic application to implement throttling mechanism using Akka FSM.
 
 Template license
 ----------------
-Written in <2018> by <Mahesh Chand> <mahesh.kndpl@gmail.com>
+Written in 2018 by <Mahesh Chand> <mahesh.kndpl@gmail.com>
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
